@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="853">
+    <defs>
+        <radialGradient id="f97cgcxbla">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <path fill="#DDD" fill-rule="evenodd" d="M0 0h1920v853H0V0z"/>
+    <path fill="url(#f97cgcxbla)" d="M0 0h1920v853H0V0z"/>
+</svg>
